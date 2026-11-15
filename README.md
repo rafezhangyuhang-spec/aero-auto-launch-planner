@@ -4,7 +4,7 @@
 
 **由 AERO Creative / 艾瑞创意出品。** 为汽车品牌市场、创意与制作团队，把海外上市需求整理成可编辑、可导出的内容交付清单。
 
-[在线使用](https://rafezhangyuhang-spec.github.io/aero-auto-launch-planner/) · [English](README.en.md) · [AERO 官网](https://www.aerocreative.com.cn/) · [项目合作](https://www.aerocreative.com.cn/contact/index.html?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner)
+[在线使用](https://rafezhangyuhang-spec.github.io/aero-auto-launch-planner/) · [English](README.en.md) · [AERO 官网](https://www.aerocreative.com.cn/) · [项目合作](https://www.aerocreative.com.cn/contact/index.html?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner) · [官网项目介绍](https://www.aerocreative.com.cn/dynamic/aero-auto-launch-planner/?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner)
 
 ### 可以解决什么问题
 
@@ -61,6 +61,8 @@ GitHub Pages：在仓库 Settings → Pages 选择 **Deploy from a branch → ma
 AERO Creative / 艾瑞创意服务中国品牌出海与全球本地化传播，提供出海创意、TVC、Campaign Key Visual、品牌片、社交内容及海外内容制作等服务。这个工具让团队可以从一份明确的交付范围开始讨论项目。
 
 [机构介绍与官方身份](https://www.aerocreative.com.cn/official/) · [官网与案例](https://www.aerocreative.com.cn/) · [与 AERO 讨论项目](https://www.aerocreative.com.cn/contact/index.html)
+
+配套方法：[AERO P0–P7 提案工作流](https://github.com/rafezhangyuhang-spec/aero-proposal-workflow)。
 
 ### 开源与贡献
 

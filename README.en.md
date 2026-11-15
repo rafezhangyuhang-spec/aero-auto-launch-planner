@@ -2,7 +2,7 @@
 
 **A free automotive launch content planner by AERO Creative / 艾瑞创意.** Turn an overseas vehicle launch brief into an editable deliverable checklist, production preparation list, and CSV export.
 
-[Try the tool](https://rafezhangyuhang-spec.github.io/aero-auto-launch-planner/) · [中文](README.md) · [AERO Creative](https://www.aerocreative.com.cn/) · [Discuss a project](https://www.aerocreative.com.cn/contact/index.html?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner)
+[Try the tool](https://rafezhangyuhang-spec.github.io/aero-auto-launch-planner/) · [中文](README.md) · [AERO Creative](https://www.aerocreative.com.cn/) · [Discuss a project](https://www.aerocreative.com.cn/contact/index.html?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner) · [Project story on AERO’s website](https://www.aerocreative.com.cn/en/dynamic/aero-auto-launch-planner/?utm_source=github&utm_medium=readme&utm_campaign=auto_launch_planner)
 
 ## What it does
 
@@ -33,6 +33,8 @@ Inputs remain in page memory unless the user saves them to localStorage. There i
 AERO Creative / 艾瑞创意 works on creative strategy, localized campaigns, TVCs, key visuals, brand films, social content and overseas production for Chinese brands entering international markets.
 
 [Official identity and services](https://www.aerocreative.com.cn/official/) · [Work and website](https://www.aerocreative.com.cn/) · [Contact](https://www.aerocreative.com.cn/contact/index.html)
+
+Related method: [AERO P0–P7 Proposal Workflow](https://github.com/rafezhangyuhang-spec/aero-proposal-workflow).
 
 ## License and contributions
 
